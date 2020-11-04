@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-
+//will be cancel soon
 public class Visual {
 
 	private static Problem p;
