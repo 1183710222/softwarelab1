@@ -43,10 +43,10 @@ public class Visual {
         Label1.setFont(f1);
         Label1.setForeground(Color.GREEN);
         panel.add(Label1);
-        JLabel Label2 = new JLabel("答案123");
+        JLabel Label2 = new JLabel("答案2");
         Label2.setBounds(10,200,80,25);
         panel.add(Label2);
-        JLabel Label3 = new JLabel("解析123");
+        JLabel Label3 = new JLabel("解析2");
         Label3.setBounds(10,250,300,25);
         panel.add(Label3);
         JLabel num1 = new JLabel("100");
